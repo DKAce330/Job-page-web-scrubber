@@ -1,6 +1,7 @@
 # Job-page-web-scrubber
 A basic application making it simple to scrub select job boards to find your dream job!
 Utilizes python with Splinter to output a list of links based on user input to the Title-list file.
+<ins>**_This is a work in progress_**</ins>
 
 **Installation:**
 For now, installation requires manual download and installation of chrome driver, this may be automated in the future
