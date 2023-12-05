@@ -5,6 +5,7 @@ Utilizes python with Splinter to output a list of links based on user input to t
 <ins>**_This is a work in progress_**</ins>
 
 **Installation:**
+
 As this is a python script, you will need python https://www.python.org/downloads/
 All libraries are downloaded and handled by the program.
 
@@ -13,15 +14,13 @@ https://chromedriver.chromium.org/downloads
 https://www.computerhope.com/issues/ch000549.htm
 
 **Usage:**
+
 Simply edit or add to the Title-list file using the sample format.
 
 Run the program with Start.bat, and a list of urls will be printed, and a text file will be added to the Output folder with the current date.
 
 **Future planned updates:**
+
 GUI.py ~ a framework for a gui system, needs customization to launch from start.bat
-<<<<<<< HEAD
 
 Installer ~ in the future, sets the user up with python environment and libraries needed with one click
-=======
-Installer ~ in the future, sets the user up with python environment and libraries needed with one click
->>>>>>> cc3f051890881059f019b186b34ae38fe9cc7a0c
