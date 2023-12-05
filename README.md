@@ -7,11 +7,12 @@ Utilizes python with Splinter to output a list of links based on user input to t
 **Installation:**
 
 As this is a python script, you will need python https://www.python.org/downloads/
-All libraries are downloaded and handled by the program.
 
-For now, installation requires manual download and installation of chrome driver, this may be automated in the future
+For now, installation requires manual download and installation of chrome driver, this may be automated in the future. Please ensure that you have the most recent version of chrome.
 https://chromedriver.chromium.org/downloads
 https://www.computerhope.com/issues/ch000549.htm
+
+After installation of required programs, run the installer .bat file. This sets up a virtual environment for python and downloads the required libraries.
 
 **Usage:**
 
