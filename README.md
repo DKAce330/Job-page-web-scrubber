@@ -2,6 +2,7 @@
 A basic application making it simple to scrub select job boards to find your dream job!
 
 Utilizes python with Splinter to output a list of links based on user input to the Title-list file.
+<ins>**_This is a work in progress_**</ins>
 
 **Installation:**
 As this is a python script, you will need python https://www.python.org/downloads/
@@ -18,5 +19,9 @@ Run the program with Start.bat, and a list of urls will be printed, and a text f
 
 **Future planned updates:**
 GUI.py ~ a framework for a gui system, needs customization to launch from start.bat
+<<<<<<< HEAD
 
 Installer ~ in the future, sets the user up with python environment and libraries needed with one click
+=======
+Installer ~ in the future, sets the user up with python environment and libraries needed with one click
+>>>>>>> cc3f051890881059f019b186b34ae38fe9cc7a0c
